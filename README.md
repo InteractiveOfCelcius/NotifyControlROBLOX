@@ -11,6 +11,7 @@
 
 Make your notifys more fun, more atracttive and not boring.  
 ***star this project and fork it to get more updates.***
+**Docummentation**: https://interactive-of-celcius.gitbook.io/notifycontrolrbx/
 
 
 ## Credits
