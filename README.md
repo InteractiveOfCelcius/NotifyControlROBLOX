@@ -1,5 +1,5 @@
 ![Sin título (1)](https://user-images.githubusercontent.com/113241132/190221786-74f742c4-4fde-4b6b-ab23-1232421539e5.jpg)  
-[![Repo size](https://img.shields.io/github/repo-size/psvks/NotifyControl)](https://github.com/psvks/NotifyControl)
+[![Repo size](https://img.shields.io/github/languages/code-size/InteractiveOfCelcius/NotifyControlROBLOX)](https://github.com/InteractiveOfCelcius/NotifyControlROBLOX/)
 
 
 
